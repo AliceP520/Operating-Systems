@@ -1,3 +1,7 @@
 Operating Systems Function #1: Providing a user interface
 
 A main operating systems is providing a user interface for the user. A user interface is how one interacts with the information displayed on the screen. There are two types: the graphic user interface (GUI) and the command-line. The GUI is based on interaction through visuals and images to establish a command. The command-line is based on interaction through commands words, such as short keywords.
+
+Operating Systems Function #2: Managing programs
+
+An operating system handles programs, which affect the efficiency of your device. The way in which the system handles programs may be single-tasked or multi-tasked. Single-tasked refers to the system managing one program at a time. Multi-tasked is the management of more than two tasks at a time, storing the previous program in the device's memory as the current program is being used.
