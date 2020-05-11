@@ -1,0 +1,3 @@
+Operating Systems Function #1: Providing a user interface
+
+A main operating systems is providing a user interface for the user. A user interface is how one interacts with the information displayed on the screen. There are two types: the graphic user interface (GUI) and the command-line. The GUI is based on interaction through visuals and images to establish a command. The command-line is based on interaction through commands words, such as short keywords.
