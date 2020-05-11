@@ -5,3 +5,7 @@ A main operating systems is providing a user interface for the user. A user inte
 Operating Systems Function #2: Managing programs
 
 An operating system handles programs, which affect the efficiency of your device. The way in which the system handles programs may be single-tasked or multi-tasked. Single-tasked refers to the system managing one program at a time. Multi-tasked is the management of more than two tasks at a time, storing the previous program in the device's memory as the current program is being used.
+
+Operating Systems Function #3: Managing memory
+
+The operating system also handles the memory. The RAM is type of memory that can be accessed randomly. The operating system uses the RAM to allocate, store, and retrieve information as it manages programs. For example, as a device multi-tasks, the information of a previous program is temporarily stored in the RAM. This information is now readily available for when the user decides to switch back to this program. The more RAM, the more efficient a device will run. Less RAM will cause the device to lag as it multi-tasks among several programs.
